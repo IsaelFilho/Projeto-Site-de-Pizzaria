@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: lightgrey;
+   
+
+}
+.conteiner{
+    display: flex;
+    padding: 30px;
+    background-color:red;
+    color: white;
+    justify-content: space-between;
+    font-size: xx-large;
+
+}
+.links a{
+    color: black;
+    border-radius: 1rem;
+    margin: 15px;
+    padding: 5px;
+    background-color: white;
+    text-decoration: none;
+
+}
+
