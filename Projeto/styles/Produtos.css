@@ -68,3 +68,16 @@ body {
     background: red;
     color: white;
 }
+
+@media (max-width: 600px) {
+
+  .card {
+    width: 90%;
+    padding: 20px;
+  }
+
+  .card img {
+    width: 100%;
+  }
+
+}
