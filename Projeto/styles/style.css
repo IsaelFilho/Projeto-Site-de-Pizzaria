@@ -27,3 +27,17 @@ body{
 
 }
 
+@media (max-width: 600px) {
+
+  .conteiner {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .links {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+}
